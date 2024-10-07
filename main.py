@@ -1,5 +1,7 @@
 x = 5
 y = x + 4
-z = y - x
+w =  x + y
 print(y)
-print(z)
+print(x)
+print(x + 3)
+print (w)
